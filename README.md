@@ -1,5 +1,4 @@
-# Hotel Alura
-
+# Conversor de Divisas
 
 <p align="center" > 
   <img src="https://img.shields.io/badge/Java%20JDK-v.11-green"/>
@@ -17,7 +16,7 @@
 
 ## Descripcion del proyecto
 
-El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocionales para Desarrolladores de Software implemento un sistema de escritorio con conexión a base de datos con el fin de llevar el control de las reservas hechas por sus clientes. El cual fue desarrollado en Java utilizando Maven para gestionar dependencias y Java Swing para diseñar las ventanas.
+El Conversor de divisas alura nos permite saber el cambio de nuestra moneda local (COP) hacia otras
 
 ## Estado del proyecto
 
@@ -26,13 +25,15 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 
 ## Funcionalidades
 
-*   `Registro de huespedes y reservas`: Mediante el formulario se pueden llenar los datos del huesped y la reserva los cuales se almacenaran en la base de datos.
+*   Convertir de la moneda a Dolar
 
-*   `Búsqueda de registros por apellido o id`: Para buscar una reserva se debe ingresar el número de reserva y para buscar un huesped se debe ingresar el apellido, luego se cargaran los datos en una tabla.
+*   Convertir de la moneda a Euros
 
-*   `Modificación de registros`: Al hacer clic en la columna de la tabla se pude editar el dato que este allí y luego al dar click en el botón modificar se envia la actualización a la base de datos.
+*   Convertir de la moneda a Libras Esterlinas
 
-*   `Eliminación de registros`: Al hacer clic sobre una columna de la tabla y luego dar click en el boton eliminar se eliminara de la base de datos el elemento seleccionado.
+*   Convertir de la moneda a Yenes
+
+*   Convertir de la moneda a Won
 
 ## Acceso al proyecto
 
